@@ -111,5 +111,5 @@ feature/UC1-display-hello-world → dev
 # 👨‍💻 Author
 
 **Ritu Raj Singh**
--SRM Institute of Science and Technology
--Computer Science Student
+- SRM Institute of Science and Technology
+- Computer Science Student
