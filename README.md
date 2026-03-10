@@ -31,22 +31,6 @@ This repository is meant for **learning Java fundamentals and software engineeri
 
 ---
 
-# 🎯 Learning Objectives
-
-Through this project, you will learn:
-
-- 📌 Java program structure  
-- 📌 Command-line arguments  
-- 📌 Standard input handling  
-- 📌 Java collections  
-- 📌 Code refactoring  
-- 📌 Object-oriented programming (OOP)  
-- 📌 Data persistence  
-- 📌 Maven build system  
-- 📌 Git branching workflow
-
----
-
 # 🧭 Use Case Roadmap
 
 The application evolves through multiple incremental use cases.
@@ -130,6 +114,7 @@ hello-app
 │
 ├── docs
 │   └── HelloAppUC.md
+|   └── HelloAppUC2.md
 │
 └── src
     ├── main
@@ -184,19 +169,6 @@ mvn clean install
 
 ---
 
-# 🤝 Contribution
-
-Contributions are welcome.
-
-Steps:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Submit a Pull Request
-
----
-
 # 👨‍💻 Author
 
 **Ritu Raj Singh**
@@ -206,6 +178,6 @@ Steps:
 
 ---
 
-# 📜 License
+# 📜 Note
 
 This project is created for **educational and learning purposes**.
