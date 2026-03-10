@@ -1,4 +1,4 @@
-public class UC2 {
+public class HelloApp {
     public static void main(String[] args) {
 
         if (args.length > 0) {
@@ -7,6 +7,5 @@ public class UC2 {
         } else {
             System.out.println("Hello! Please provide a name as an argument.");
         }
-
     }
 }
