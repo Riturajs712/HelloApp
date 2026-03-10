@@ -31,12 +31,15 @@ feature branch → dev → main
 
 Each functionality of HelloApp is implemented as a **separate use case**.
 
-| Use Case | Description                           | Branch        |
-| -------- | ------------------------------------- | --------------|
+| Use Case | Description                           | Branch       |
+| -------- | ------------------------------------- | -------------|
+| UC1      | Display Hello World                   | `feature/UC1 |
 
 
-# 📖 Detailed documentation for each use case will be available in:
 
+# 📖 Detailed documentation for each use case :
+
+To access the docs of individual use case go visit the folder :
 ```
 docs/
 ```
