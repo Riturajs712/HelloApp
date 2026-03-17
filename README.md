@@ -85,7 +85,13 @@ cd HelloApp
 Compile the project using Maven:
 
 ```bash
-mvn clean install
+mvnd clean install
+```
+
+followed by
+
+```bash
+mvnd exec:java
 ```
 
 This will:
@@ -164,7 +170,7 @@ The `pom.xml` file defines:
 Build the project using:
 
 ```bash
-mvn clean install
+mvnd clean install
 ```
 
 ---
