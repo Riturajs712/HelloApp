@@ -35,7 +35,8 @@ Each functionality of HelloApp is implemented as a **separate use case**.
 | -------- | ------------------------------------- | ----------------|
 | UC1      | Display Hello World                   | `feature/UC1`   |
 | UC2      | Accept name via command-line argument | `feature/UC2`   |
-
+| UC3      | Optional argument handling            | `feature/UC3`   |
+| UC4      | Multiple command-line names           | `feature/UC4`   |
 
 # 📖 Detailed documentation for each use case :
 
