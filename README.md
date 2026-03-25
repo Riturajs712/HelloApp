@@ -38,6 +38,7 @@ Each functionality of HelloApp is implemented as a **separate use case**.
 | UC3      | Optional argument handling            | `feature/UC3`   |
 | UC4      | Multiple command-line names           | `feature/UC4`   |
 | UC5      | Display multiple names in a line      | `feature/UC5`   |
+| UC6      | Remove trailing delimiter             | `feature/UC6`   |
 
 # 📖 Detailed documentation for each use case :
 
